@@ -4,12 +4,12 @@
     "name": "三相消除",
     "description": "小米手环上的羊了个羊",
     "preview": [
-      "interface/1.png",
-      "interface/2.png",
-      "interface/3.png",
-      "interface/4.png",
-      "interface/5.png",
-      "interface/6.png"
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png"
     ],
     "icon": "logo.png",
     "cover": "preview.png",
