@@ -1,0 +1,87 @@
+{
+  "item": {
+    "id": "com.matrixfive.online.ylgy",
+    "restype": "quick_app",
+    "name": "三相消除",
+    "description": "小米手环上的羊了个羊",
+    "preview": [
+      "interface/1.png",
+      "interface/2.png",
+      "interface/3.png",
+      "interface/4.png",
+      "interface/5.png",
+      "interface/6.png"
+    ],
+    "icon": "logo.png",
+    "cover": "preview.png",
+    "author": [
+      {
+        "name": "MatrixFive",
+        "bindABAccount": false
+      },
+      {
+        "name": "点击购买",
+        "bindABAccount": false
+      },
+      {
+        "name": "产品官网",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "shopping-cart",
+      "title": "点击购买",
+      "url": "https://afdian.com/item/a22313a681bc11f0bd2952540025c377"
+    },
+    {
+      "icon": "link-simple",
+      "title": "产品体验官网",
+      "url": "https://sxxc.mfoa.top"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForMI9-V4.1.rpk"
+    },
+    "xmb9p": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForMI9Pro-V4.1.rpk"
+    },
+    "xmb10": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForMI10-V4.1.rpk"
+    },
+    "xmb10nfc": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForMI10-V4.1.rpk"
+    },
+    "xmws3": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "xmws4": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "xmws4xring": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "xmrw5": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForRW-V4.1.rpk"
+    },
+    "xmrw5xring": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForRW-V4.1.rpk"
+    },
+    "xmrw6": {
+      "version": "4.1.0",
+      "file_name": "RPK/Sxxc-ForRW-V4.1.rpk"
+    }
+  },
+  "ext": {}
+}
